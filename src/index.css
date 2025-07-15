@@ -1,0 +1,9 @@
+/* Move all @import statements to the top */
+@import "tailwindcss";
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@800&display=swap');
+
+/* Then you can add your custom styles */
+body {
+  font-family: 'Raleway', sans-serif;
+  /* Other styles */
+}
